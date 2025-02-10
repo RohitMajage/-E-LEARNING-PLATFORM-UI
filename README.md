@@ -69,7 +69,8 @@ Form Validation: While the HTML5 required attribute ensures basic validation, Ja
 Future Enhancements: JavaScript can be extended in the future to include features such as session management for logged-in users, dynamic course filtering, quizzes, and interactive learning tools.
 
 #OUTPUT
-![Image](https://github.com/user-attachments/assets/ff55835a-14f5-428f-b752-821da7749ef9)
+
 ![Image](https://github.com/user-attachments/assets/504d4bf9-6316-4fc1-83f6-6f7c0acb224a)
 ![Image](https://github.com/user-attachments/assets/b51c73a5-e5d6-4a33-9933-cb38b95ddb16)
 ![Image](https://github.com/user-attachments/assets/091b79ea-b8ea-4cc4-a17d-76f99498e585)
+![Image](https://github.com/user-attachments/assets/ff55835a-14f5-428f-b752-821da7749ef9)
